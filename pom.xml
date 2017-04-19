@@ -28,7 +28,7 @@
   <groupId>com.github.steveash.addr</groupId>
   <artifactId>us-address-parser</artifactId>
 
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
 
   <name>us-address-parser</name>
   <description>Mavenized version of the abandoned google code project USAddressParser</description>
